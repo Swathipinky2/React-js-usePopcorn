@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const API_KEY = "f84fc31d";
+const API_KEY = "a4954f1c";
 
 // Custom hook to fetch movies from the OMDB API
 export function useMovies(query) {
